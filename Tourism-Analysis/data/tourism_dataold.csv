@@ -1,0 +1,261 @@
+id,country,visitors,year,season,spending
+1,USA,120000,2023,Winter,1500
+2,France,95000,2023,Summer,1200
+3,Japan,88000,2023,Spring,1300
+4,India,70000,2023,Monsoon,800
+5,Australia,65000,2023,Autumn,1100
+6,Brazil,75000,2023,Summer,900
+7,Canada,60000,2023,Winter,1000
+8,UK,85000,2023,Summer,1400
+9,Germany,78000,2023,Spring,1250
+10,Italy,72000,2023,Autumn,1150
+11,China,90000,2023,Winter,1350
+12,Spain,67000,2023,Summer,1100
+13,Russia,64000,2023,Spring,1050
+14,South Korea,59000,2023,Autumn,950
+15,South Africa,53000,2023,Winter,850
+16,Mexico,76000,2023,Summer,1200
+17,Argentina,68000,2023,Spring,1000
+18,Thailand,71000,2023,Autumn,1150
+19,New Zealand,62000,2023,Winter,950
+20,Turkey,74000,2023,Summer,1250
+21,Netherlands,66000,2023,Spring,1100
+22,Switzerland,58000,2023,Autumn,1050
+23,Sweden,54000,2023,Winter,900
+24,Norway,52000,2023,Summer,850
+25,Denmark,50000,2023,Spring,800
+26,Finland,48000,2023,Autumn,750
+27,Poland,46000,2023,Winter,700
+28,Austria,44000,2023,Summer,650
+29,Belgium,42000,2023,Spring,600
+30,Greece,40000,2023,Autumn,550
+31,Portugal,38000,2023,Winter,500
+32,Ireland,36000,2023,Summer,450
+33,Hungary,34000,2023,Spring,400
+34,Czech Republic,32000,2023,Autumn,350
+35,Malaysia,30000,2023,Winter,300
+36,Singapore,28000,2023,Summer,250
+37,Indonesia,26000,2023,Spring,200
+38,Vietnam,24000,2023,Autumn,150
+39,Philippines,22000,2023,Winter,100
+40,Saudi Arabia,20000,2023,Summer,50
+41,UAE,18000,2023,Spring,75
+42,Qatar,16000,2023,Autumn,125
+43,Israel,14000,2023,Winter,175
+44,Egypt,12000,2023,Summer,225
+45,Morocco,10000,2023,Spring,275
+46,Kenya,8000,2023,Autumn,325
+47,Tanzania,6000,2023,Winter,375
+48,Nigeria,4000,2023,Summer,425
+49,Ghana,2000,2023,Spring,475
+50,Uganda,1000,2023,Autumn,525
+51,Peru,90000,2024,Winter,1350
+52,Chile,83000,2024,Summer,1250
+53,Colombia,76000,2024,Spring,1150
+54,Venezuela,69000,2024,Monsoon,1050
+55,USA,125000,2024,Winter,1600
+56,France,98000,2024,Summer,1300
+57,Japan,91000,2024,Spring,1400
+58,India,73000,2024,Monsoon,900
+59,Australia,68000,2024,Autumn,1200
+60,Brazil,78000,2024,Summer,1000
+61,Canada,63000,2024,Winter,1100
+62,UK,88000,2024,Summer,1500
+63,Germany,81000,2024,Spring,1350
+64,Italy,75000,2024,Autumn,1250
+65,China,93000,2024,Winter,1450
+66,Spain,70000,2024,Summer,1200
+67,Russia,67000,2024,Spring,1150
+68,South Korea,62000,2024,Autumn,1050
+69,South Africa,56000,2024,Winter,950
+70,Mexico,79000,2024,Summer,1300
+71,Argentina,71000,2024,Spring,1100
+72,Thailand,74000,2024,Autumn,1250
+73,New Zealand,65000,2024,Winter,1050
+74,Turkey,77000,2024,Summer,1350
+75,Netherlands,69000,2024,Spring,1200
+76,Switzerland,61000,2024,Autumn,1150
+77,Sweden,57000,2024,Winter,1000
+78,Norway,55000,2024,Summer,950
+79,Denmark,53000,2024,Spring,900
+80,Finland,51000,2024,Autumn,850
+81,Poland,49000,2024,Winter,800
+82,Austria,47000,2024,Summer,750
+83,Belgium,45000,2024,Spring,700
+84,Greece,43000,2024,Autumn,650
+85,Portugal,41000,2024,Winter,600
+86,Ireland,39000,2024,Summer,550
+87,Hungary,37000,2024,Spring,500
+88,Czech Republic,35000,2024,Autumn,450
+89,Malaysia,33000,2024,Winter,400
+90,Singapore,31000,2024,Summer,350
+91,Indonesia,29000,2024,Spring,300
+92,Vietnam,27000,2024,Autumn,250
+93,Philippines,25000,2024,Winter,200
+94,Saudi Arabia,23000,2024,Summer,150
+95,UAE,21000,2024,Spring,175
+96,Qatar,19000,2024,Autumn,225
+97,Israel,17000,2024,Winter,275
+98,Egypt,15000,2024,Summer,325
+99,Morocco,13000,2024,Spring,375
+100,Kenya,11000,2024,Autumn,425
+101,Tanzania,9000,2024,Winter,475
+102,Nigeria,7000,2024,Summer,525
+103,Ghana,5000,2024,Spring,575
+104,Uganda,3000,2024,Autumn,625
+105,USA,115000,2022,Winter,1400
+106,France,92000,2022,Summer,1100
+107,Japan,85000,2022,Spring,1200
+108,India,68000,2022,Monsoon,700
+109,Australia,63000,2022,Autumn,1000
+110,Brazil,73000,2022,Summer,800
+111,Canada,58000,2022,Winter,900
+112,UK,82000,2022,Summer,1300
+113,Germany,75000,2022,Spring,1150
+114,Italy,69000,2022,Autumn,1050
+115,China,87000,2022,Winter,1250
+116,Spain,64000,2022,Summer,1000
+117,Russia,61000,2022,Spring,950
+118,South Korea,56000,2022,Autumn,850
+119,South Africa,50000,2022,Winter,750
+120,Mexico,72000,2022,Summer,1100
+121,Argentina,64000,2022,Spring,900
+122,Thailand,67000,2022,Autumn,1050
+123,New Zealand,60000,2022,Winter,850
+124,Turkey,69000,2022,Summer,1150
+125,Netherlands,62000,2022,Spring,1000
+126,Switzerland,54000,2022,Autumn,950
+127,Sweden,50000,2022,Winter,800
+128,Norway,48000,2022,Summer,750
+129,Denmark,46000,2022,Spring,700
+130,Finland,44000,2022,Autumn,650
+131,Poland,42000,2022,Winter,600
+132,Austria,40000,2022,Summer,550
+133,Belgium,38000,2022,Spring,500
+134,Greece,36000,2022,Autumn,450
+135,Portugal,34000,2022,Winter,400
+136,Ireland,32000,2022,Summer,350
+137,Hungary,30000,2022,Spring,300
+138,Czech Republic,28000,2022,Autumn,250
+139,Malaysia,26000,2022,Winter,200
+140,Singapore,24000,2022,Summer,150
+141,Indonesia,22000,2022,Spring,100
+142,Vietnam,20000,2022,Autumn,50
+143,Philippines,18000,2022,Winter,75
+144,Saudi Arabia,16000,2022,Summer,125
+145,UAE,14000,2022,Spring,175
+146,Qatar,12000,2022,Autumn,225
+147,Israel,10000,2022,Winter,275
+148,Egypt,8000,2022,Summer,325
+149,Morocco,6000,2022,Spring,375
+150,Kenya,4000,2022,Autumn,425
+151,Tanzania,2000,2022,Winter,475
+152,Nigeria,950,2021,Summer,525
+153,Ghana,900,2021,Winter,1350
+154,Chile,850,2021,Summer,1250
+155,Colombia,800,2021,Spring,1150
+156,Venezuela,750,2021,Monsoon,1050
+157,USA,700,2021,Winter,1600
+158,France,650,2021,Summer,1300
+159,Japan,600,2021,Spring,1400
+160,India,550,2021,Monsoon,900
+161,Australia,500,2021,Autumn,1200
+162,Brazil,450,2021,Summer,1000
+163,Canada,400,2021,Winter,1100
+164,UK,350,2021,Summer,1500
+165,Germany,300,2021,Spring,1350
+166,Italy,250,2021,Autumn,1250
+167,China,200,2021,Winter,1450
+168,Spain,150,2021,Summer,1200
+169,Russia,100,2021,Spring,1150
+170,South Korea,50,2021,Autumn,1050
+171,South Africa,900,2021,Winter,950
+172,Mexico,850,2021,Summer,1300
+173,Argentina,800,2021,Spring,1100
+174,Thailand,750,2021,Autumn,1250
+175,New Zealand,700,2021,Winter,1050
+176,Turkey,650,2021,Summer,1350
+177,Netherlands,600,2021,Spring,1200
+178,Switzerland,550,2021,Autumn,1150
+179,Sweden,500,2021,Winter,1000
+180,Norway,450,2021,Summer,950
+181,Denmark,400,2021,Spring,900
+182,Finland,350,2021,Autumn,850
+183,Poland,300,2021,Winter,800
+184,Austria,250,2021,Summer,750
+185,Belgium,200,2021,Spring,700
+186,Greece,150,2021,Autumn,650
+187,Portugal,100,2021,Winter,600
+188,Ireland,50,2021,Summer,550
+189,Hungary,900,2021,Spring,500
+190,Czech Republic,850,2021,Autumn,450
+191,Malaysia,800,2021,Winter,400
+192,Singapore,750,2021,Summer,350
+193,Indonesia,700,2021,Spring,300
+194,Vietnam,650,2021,Autumn,250
+195,Philippines,600,2021,Winter,200
+196,Saudi Arabia,550,2021,Summer,150
+197,UAE,500,2021,Spring,175
+198,Qatar,450,2021,Autumn,225
+199,Israel,400,2021,Winter,275
+200,Egypt,350,2021,Summer,325
+201,Morocco,300,2021,Spring,375
+202,Kenya,250,2021,Autumn,425
+203,Tanzania,200,2021,Winter,475
+204,Nigeria,150,2021,Summer,525
+205,Ghana,100,2021,Spring,575
+206,Uganda,50,2021,Autumn,625
+153,Ghana,900,2021,Winter,1350
+154,Chile,83000,2021,Summer,1250
+155,Colombia,76000,2021,Spring,1150
+156,Venezuela,69000,2021,Monsoon,1050
+157,USA,125000,2021,Winter,1600
+158,France,98000,2021,Summer,1300
+159,Japan,91000,2021,Spring,1400
+160,India,73000,2021,Monsoon,900
+161,Australia,68000,2021,Autumn,1200
+162,Brazil,78000,2021,Summer,1000
+163,Canada,63000,2021,Winter,1100
+164,UK,88000,2021,Summer,1500
+165,Germany,81000,2021,Spring,1350
+166,Italy,75000,2021,Autumn,1250
+167,China,93000,2021,Winter,1450
+168,Spain,70000,2021,Summer,1200
+169,Russia,67000,2021,Spring,1150
+170,South Korea,62000,2021,Autumn,1050
+171,South Africa,56000,2021,Winter,950
+172,Mexico,79000,2021,Summer,1300
+173,Argentina,71000,2021,Spring,1100
+174,Thailand,74000,2021,Autumn,1250
+175,New Zealand,65000,2021,Winter,1050
+176,Turkey,77000,2021,Summer,1350
+177,Netherlands,69000,2021,Spring,1200
+178,Switzerland,61000,2021,Autumn,1150
+179,Sweden,57000,2021,Winter,1000
+180,Norway,55000,2021,Summer,950
+181,Denmark,53000,2021,Spring,900
+182,Finland,51000,2021,Autumn,850
+183,Poland,49000,2021,Winter,800
+184,Austria,47000,2021,Summer,750
+185,Belgium,45000,2021,Spring,700
+186,Greece,43000,2021,Autumn,650
+187,Portugal,41000,2021,Winter,600
+188,Ireland,39000,2021,Summer,550
+189,Hungary,37000,2021,Spring,500
+190,Czech Republic,35000,2021,Autumn,450
+191,Malaysia,33000,2021,Winter,400
+192,Singapore,31000,2021,Summer,350
+193,Indonesia,29000,2021,Spring,300
+194,Vietnam,27000,2021,Autumn,250
+195,Philippines,25000,2021,Winter,200
+196,Saudi Arabia,23000,2021,Summer,150
+197,UAE,21000,2021,Spring,175
+198,Qatar,19000,2021,Autumn,225
+199,Israel,17000,2021,Winter,275
+200,Egypt,15000,2021,Summer,325
+201,Morocco,13000,2021,Spring,375
+202,Kenya,11000,2021,Autumn,425
+203,Tanzania,9000,2021,Winter,475
+204,Nigeria,7000,2021,Summer,525
+205,Ghana,5000,2021,Spring,575
+206,Uganda,3000,2021,Autumn,625
